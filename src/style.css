@@ -172,9 +172,14 @@ header {
     padding: 8px 16px;
     background-color: #4C9654;
     transform: rotate(-28.87deg);
+    /* transition: color 0.3s ease-in-out, background-color 0.3s ease-in-out, border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out; */
 }
 .bg-draw {
     background-color: #035B0C !important;
+}
+.pd-10 {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
 }
 
 .col-4 {
